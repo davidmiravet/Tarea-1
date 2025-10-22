@@ -1,1 +1,1 @@
-![cepb](IMG/cepb.jng)
+![cepb](img/cepb.jng)
